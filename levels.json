@@ -882,7 +882,7 @@
   },
   { 
     "name": "Nerfed Wave Corridor", 
-    "points": 14, 
+    "points": -9988, 
     "creator": "[PLUH] ChefLime", 
     "verifier": "[PLUH] ChefLime", 
     "id": "142515558", 
@@ -1302,7 +1302,7 @@
   },
   { 
     "name": "ChefLimeWaveBasic3", 
-    "points": 11, 
+    "points": -9989, 
     "creator": "[PLUH] ChefLime", 
     "verifier": "[PLUH] ChefLime", 
     "id": "143694353", 
@@ -1402,7 +1402,7 @@
   },
   { 
     "name": "yes", 
-    "points": 5, 
+    "points": -9990, 
     "creator": "jtohobby", 
     "verifier": "jtohobby", 
     "id": "142076605", 
