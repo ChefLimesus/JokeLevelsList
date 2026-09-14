@@ -71,7 +71,7 @@
   },
   { 
     "name": "ULTIMATE pants eater", 
-    "points": 342,
+    "points": 341,
     "fps": "19.248 FPS",
     "creator": "newbite", 
     "verifier": "newbite", 
@@ -92,7 +92,7 @@
   },
   { 
     "name": "seveh never clear", 
-    "points": 350, 
+    "points": 349, 
     "creator": "ashyy", 
     "verifier": "ashyy", 
     "id": "148315411", 
@@ -122,7 +122,7 @@
   },
   { 
     "name": "Pink World", 
-    "points": 346, 
+    "points": 345, 
     "creator": "newbite", 
     "verifier": "ashyy", 
     "id": "148776906", 
@@ -152,7 +152,7 @@
   },
   { 
     "name": "free era", 
-    "points": 220, 
+    "points": 219, 
     "creator": "FJKR", 
     "verifier": "FJKR", 
     "id": "145731601", 
@@ -192,7 +192,7 @@
   },
   { 
     "name": "Deep Dive", 
-    "points": 344, 
+    "points": 343, 
     "creator": "puffiballGD", 
     "verifier": "puffiballGD", 
     "id": "148172908", 
@@ -212,7 +212,7 @@
   },
   { 
     "name": "Gas Chamber", 
-    "points": 347, 
+    "points": 346, 
     "creator": "newbite", 
     "verifier": "newbite", 
     "id": "148684744", 
@@ -291,6 +291,36 @@
     "victors": ["puffiballgd","Symm","FJKR"] 
   },
   { 
+    "name": "Angelica", 
+    "points": 347, 
+    "creator": "ashyy", 
+    "verifier": "ashyy", 
+    "id": "148850710", 
+    "video": "https://medal.tv/games/geometry-dash/clips/nwmAX5uQ4b6E2ww7T?invite=cr-MSxKaWMsNzA3MTczOTkw", 
+    "thumbnail": "Thumbnail/Angelica.png", 
+    "victors": [] 
+  },
+  { 
+    "name": "Gecko", 
+    "points": 352, 
+    "creator": "ashyy", 
+    "verifier": "Sushi", 
+    "id": "148850710", 
+    "video": "https://medal.tv/games/geometry-dash/clips/nwmAX5uQ4b6E2ww7T?invite=cr-MSxKaWMsNzA3MTczOTkw", 
+    "thumbnail": "Thumbnail/Angelica.png", 
+    "victors": [] 
+  },
+  { 
+    "name": "GGGGGGGGGGGGGGGGGGGG", 
+    "points": 222, 
+    "creator": "[HJM] MrBazooka", 
+    "verifier": "[HJM] MrBazooka", 
+    "id": "148850710", 
+    "video": "https://medal.tv/games/geometry-dash/clips/nwmAX5uQ4b6E2ww7T?invite=cr-MSxKaWMsNzA3MTczOTkw", 
+    "thumbnail": "Thumbnail/Angelica.png", 
+    "victors": [] 
+  },
+  { 
     "name": "dazy", 
     "points": 225, 
     "creator": "sevehweveh", 
@@ -322,7 +352,7 @@
   },
   { 
     "name": "Autism          Wave", 
-    "points": 222, 
+      "points": 221, 
     "creator": "[HJM] MrBazooka", 
     "verifier": "[HJM] MrBazooka", 
     "id": "145262719", 
@@ -372,7 +402,7 @@
   },
   { 
     "name": "TooSquared", 
-    "points": 349, 
+    "points": 348, 
     "creator": "puffiballgd", 
     "verifier": "puffiballgd", 
     "id": "126306734", 
@@ -392,7 +422,7 @@
   },
   { 
     "name": "OLG Challenge", 
-    "points": 217, 
+    "points": 216, 
     "creator": "FJKR", 
     "verifier": "FJKR", 
     "id": "144577936", 
@@ -642,7 +672,7 @@
   },
   { 
     "name": "A", 
-    "points": 221, 
+    "points": 220, 
     "creator": "Symm", 
     "verifier": "Symm", 
     "id": "145477446", 
@@ -662,7 +692,7 @@
   },
   { 
     "name": "B", 
-    "points": 218, 
+    "points": 217, 
     "creator": "Symm", 
     "verifier": "Symm", 
     "id": "145486335", 
@@ -682,7 +712,7 @@
   },
   { 
     "name": "E", 
-    "points": 351, 
+    "points": 350, 
     "creator": "Symm", 
     "verifier": "Symm", 
     "id": "145678027", 
@@ -762,7 +792,7 @@
   },
   { 
     "name": "VSC unnerfed", 
-    "points": 352, 
+    "points": 351, 
     "creator": "puffiballgd", 
     "verifier": "puffiballgd", 
     "id": "145551425", 
@@ -782,7 +812,7 @@
   },
   { 
     "name": "cycles wave", 
-    "points": 219, 
+    "points": 218, 
     "creator": "HurryingJackM", 
     "verifier": "puffiballgd", 
     "id": "141854863", 
@@ -1532,7 +1562,7 @@
   },
   {
     "name": "pants eater nerf",
-    "points": 343,
+    "points": 342,
     "fps": "30 FPS",
     "creator": "newbite",
     "verifier": "newbite",
@@ -1543,7 +1573,7 @@
   },
   {
     "name": "Jiggy Wave",
-    "points": 345,
+    "points": 344,
     "creator": "Justgdboi",  
     "verifier": "Karen",
     "id": "147457047",
