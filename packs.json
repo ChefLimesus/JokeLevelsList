@@ -33,12 +33,22 @@
   },
   {
     "name": "Top 1 Pack II",
-    "tier": "DIAMOND",
+    "tier": "RUBY",
     "points": 200,
     "levels": [
-      "Zirconium Shard",
+      "ZIRCONIUM SHARD",
       "SYMM NO SCLEARS",
       "Defeated Brajan"
+    ]
+  },
+  {
+    "name": "Top 1 Pack III",
+    "tier": "RUBY",
+    "points": 200,
+    "levels": [
+      "WiStErIa",
+      "EmErAlD",
+      "The Aquarium"
     ]
   },
   {
