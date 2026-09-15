@@ -1301,6 +1301,16 @@
     "victors": ["[HJM] MrBazooka","puffiballgd","HurryingJackM","bleepboopbop","Symm","FJKR","Okarun","Karen"] 
   },
   { 
+    "name": "NU11 W4V3", 
+    "points": 56, 
+    "creator": "[PLUH] ChefLime", 
+    "verifier": "[PLUH] ChefLime", 
+    "id": "148883144", 
+    "video": "9_Ojl9R-MrU", 
+    "thumbnail": "Thumbnail/NU11W4V3.png", 
+    "victors": [] 
+  },
+  { 
     "name": "Cat City", 
     "points": 277, 
     "creator": "newbite", 
@@ -1352,7 +1362,7 @@
   },
   { 
     "name": "Tung After Tung", 
-    "points": 25, 
+    "points": -9983, 
     "creator": "[PLUH] ChefLime", 
     "verifier": "[PLUH] ChefLime", 
     "id": "138263889", 
