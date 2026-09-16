@@ -1,5 +1,15 @@
 [
   { 
+    "name": "Quantuese Processing", 
+    "points": 750, 
+    "creator": "Renn241", 
+    "verifier": "Zoink", 
+    "id": "117692518", 
+    "video": "j5NC0u1Q91Q", 
+    "thumbnail": "Thumbnail/5434.jpg", 
+    "victors": ["dovv1n","seregiusz,"sharkyga","wPopoff","karkito"] 
+  },
+  { 
     "name": "Make Paul Dance", 
     "points": 500, 
     "creator": "Bemq", 
@@ -16,7 +26,7 @@
     "verifier": "trenbabypaleo", 
     "id": "130183035", 
     "video": "1rrouUCPXhY", 
-    "thumbnail": "Thumbnail/EmErAlD.jpg", 
+    "thumbnail": "Thumbnail/4Cubed.png", 
     "victors": ["MoMo0o","aubbie","MagnificCub9216","F1nnie"] 
   }
 ]
